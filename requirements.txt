@@ -1,0 +1,6 @@
+numpy
+pandas
+gym
+stable-baselines3
+matplotlib
+scikit-learn
