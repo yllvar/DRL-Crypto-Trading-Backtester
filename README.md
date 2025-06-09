@@ -4,6 +4,9 @@ A deep reinforcement learning framework for cryptocurrency trading strategy deve
 
 ## Overview
 
+<img width="672" alt="Screenshot 2025-06-09 at 14 20 03" src="https://github.com/user-attachments/assets/465aa232-fcad-4233-8eba-521b87145b8c" />
+
+
 This project implements a comprehensive backtesting environment for Deep Reinforcement Learning (DRL) trading strategies, with a focus on Bitcoin and Ripple (XRP) markets. The implementation is based on academic research demonstrating the effectiveness of DRL algorithms, particularly Dueling DQN, in cryptocurrency trading.
 
 ## Features
@@ -13,6 +16,8 @@ This project implements a comprehensive backtesting environment for Deep Reinfor
 - **Comprehensive Backtesting**: Full historical simulation with detailed metrics
 - **Technical Indicators**: Integration of common trading indicators (SMA, RSI, etc.)
 - **Performance Analysis**: Sharpe ratio, drawdown, win rate, and other key metrics
+
+<img width="606" alt="Screenshot 2025-06-09 at 14 21 11" src="https://github.com/user-attachments/assets/13232ee2-388b-477e-9a5a-a8b197468548" />
 
 ## Academic Foundation
 
@@ -29,7 +34,11 @@ This implementation is based on research findings from recent studies in DRL for
 - **Backend**: Node.js with Python integration
 - **ML Framework**: Stable-Baselines3 for DRL implementation
 - **Data Processing**: Pandas, NumPy
+  
+<img width="664" alt="Screenshot 2025-06-09 at 14 22 17" src="https://github.com/user-attachments/assets/994cc5ba-a2d7-417a-9a74-b26ace26a5bb" />
 
+---
+  
 ## Getting Started
 
 ### Prerequisites
